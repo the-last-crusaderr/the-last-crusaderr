@@ -9,9 +9,9 @@
 - ⚡ Fun fact: When you code, you don't stressed out. When you stressed out, you don't code.
 
 
-<!--
+
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=the-last-crusaderr&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" /> 
--->
+
 
 <img align = "center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-last-crusaderr)](https://github.com/the-last-crusaderr/github-readme-stats)" />
 
