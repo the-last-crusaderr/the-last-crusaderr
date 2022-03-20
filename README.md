@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on machine learning projects.
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently learning data science.
 - 💬 Ask me about web dev.
 - 📫 How to reach me: contact me on twitter.
 - 😄 Always ready to talk about code, football and cricket.
